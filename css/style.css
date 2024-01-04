@@ -195,10 +195,6 @@ span {
         grid-row-end: 1;
     }
 
-    .block {
-        font-size: .75rem;
-    }
-
     .jan {
         grid-column-start: 1;
         grid-column-end: 1;
