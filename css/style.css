@@ -64,6 +64,7 @@ span {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    transition: scale 1s;
 }
 
 .jan {
@@ -80,6 +81,11 @@ span {
     grid-column-end: 4;
     grid-row-start: 2;
     grid-row-end: 3;
+}
+
+.block:hover {
+    scale: 1.1;
+    transition: scale .5s;
 }
 
 .mar {
