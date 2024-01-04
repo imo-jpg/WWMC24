@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1276px" height="887px" viewBox="0 0 1276 887" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <g id="2024" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-15" transform="translate(-82.000000, -68.000000)" fill="#000000">
+            <g id="Group-2" transform="translate(82.000000, 68.000000)">
+                <polygon id="Path" transform="translate(797.500000, 148.000000) scale(-1, 1) translate(-797.500000, -148.000000) " points="638 37 677.875 0 917.125 0 957 74 957 259 917.125 296 638 296"></polygon>
+                <polygon id="Path" points="319 74 358.875 0 558.25 0 638 74 638 222 598.125 296 319 296"></polygon>
+                <polygon id="Path" transform="translate(160.500000, 444.000000) scale(1, -1) rotate(-180.000000) translate(-160.500000, -444.000000) " points="1 333 80.75 296 280.125 296 320 370 320 555 280.125 592 41.663319 592 1 555"></polygon>
+                <polygon id="Path" points="957 628 1076.625 591 1236.125 591 1276 665 1276 850 1236.125 887 997.663319 887 957 813"></polygon>
+                <polygon id="Path" points="319 370 398.75 296 558.25 296 638 370 638 518 598.125 592 358.390685 592 319 555"></polygon>
+                <polygon id="Path" transform="translate(478.500000, 739.000000) rotate(-180.000000) translate(-478.500000, -739.000000) " points="319 665 438.625 591 558.25 591 638 665 638 813 598.125 887 358.390685 887 319 813"></polygon>
+                <polygon id="Path" points="1 111 40.875 0 200.375 0 320 74 320 185 280.125 296 1 296"></polygon>
+                <polygon id="Path" transform="translate(797.500000, 444.000000) rotate(-180.000000) translate(-797.500000, -444.000000) " points="638 407 717.75 296 837.375 296 957 370 957 481 917.125 592 677.888626 592 638 555"></polygon>
+                <polygon id="Path" points="638 702 757.625 591 837.375 591 957 665 957 776 917.125 887 677.888626 887 638 813"></polygon>
+                <polygon id="Path" transform="translate(1116.500000, 148.000000) scale(-1, 1) translate(-1116.500000, -148.000000) " points="957 148 996.875 0 1116.5 0 1276 74 1276 148 1236.125 296 957 296"></polygon>
+                <polygon id="Path" transform="translate(1116.500000, 444.000000) scale(-1, 1) translate(-1116.500000, -444.000000) " points="957 444 1036.75 296 1116.5 296 1276 370 1276 444 1236.125 592 996.64683 592 957 555"></polygon>
+                <polygon id="Path" points="0 739 119.625 591 159.5 591 319 665 319 739 279.125 887 39.6468304 887 0 813"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
