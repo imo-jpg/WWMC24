@@ -28,9 +28,19 @@ span {
     font-weight: 400;
 }
 
+a {
+    color:#ffffff;
+}
+
 .movie {
     font-weight: 100;
     font-size: .5rem;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.movie:hover {
+    text-decoration: underline;
 }
 
 .tbd {
@@ -183,6 +193,10 @@ span {
         height: 3000px;
         grid-template-columns: 1fr;
         grid-template-rows: 40px 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 40px;
+    }
+
+    .movie {
+        text-decoration: underline;
     }
 
     .title {
